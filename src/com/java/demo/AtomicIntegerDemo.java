@@ -2,6 +2,9 @@ package com.java.demo;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
+/**
+ * AtomicInteger
+ */
 public class AtomicIntegerDemo {
 
     public static void main(String[] args) {
